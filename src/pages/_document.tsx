@@ -18,7 +18,7 @@ class IQDocument extends Document
                     <meta name='language' content='en'/>
                     <meta name='Classification' content='Portfolio'/>
                     <meta name='subject' content='Yared Abera portfolio'/>
-                    <meta name='description' content="IntelligentQuantum Full-Stack Developer & Graphic Designer. IntelligentQuantum focuses on JavaScript-related technologies like Typescript, NodeJS and React. IntelligentQuantum is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
+                    <meta name='description' content="Full-Stack Developer & Graphic Designer. IntelligentQuantum focuses on JavaScript-related technologies like Typescript, NodeJS and React. IntelligentQuantum is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
                     <meta name='keywords' content='Full-Stack Developer, Developer, Ethiopia, JavaScript, TypeScript, Graphic Designer'/>
                     <meta name='author' content='Yared Abera'/>
 
@@ -27,12 +27,7 @@ class IQDocument extends Document
                     <meta property='og:description' content='Full-Stack Developer & Graphic Designer'/>
                 
 
-                    <meta property='twitter:card'/>
-                    <meta property='twitter:url' content='https://intelligentquantum.dev/'/>
-                    <meta property='twitter:title' content='IntelligentQuantum'/>
-                    <meta property='twitter:description' content=' Full-Stack Developer & Graphic Designer'/>
-                    <meta property='twitter:image' content='https://intelligentquantum.dev/favicon.png'/>
-
+    
                     <link rel='icon' href='/favicon.png' />
                     <link rel='apple-touch-icon' href='https://intelligentquantum.dev/favicon.png'/>
                     <link rel='manifest' href='https://intelligentquantum.dev/manifest.json'/>
