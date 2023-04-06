@@ -40,14 +40,6 @@
             "title": "Cross-Platform Entwicklung",
             "description": "PCcross-platform ልማት የሶፍትዌር ምርቶችን የማልማት ልምድ ነው ወይም እንደ ዊንዶውስ፣ ሊኑክስ፣ ማክኦኤስ፣ አንድሮይድ፣ አይኦኤስ ወይም የሶፍትዌር አካባቢዎችን በኤሌክትሮን፣ React Native እና Qt ላይ በመመስረት።"
         },
-        {
-            "title": "Internet-Sicherheit",
-            "description": "In der digitalen Welt sind unsere Daten sicher, solange wir uns dessen bewusst sind. Die meisten Hacks, die passieren, sind in erster Linie Social-Engineering-Angriffe, bei denen die menschliche Psychologie ausgenutzt wird, indem Daten verwendet werden, die bewusst von Menschen in sozialen Medien bereitgestellt werden."
-        },
-        {
-            "title": "Suchmaschinenoptimierung",
-            "description": "Suchmaschinenoptimierung ist der Prozess der Verbesserung der Qualität und Quantität des Website-Traffics auf eine Website oder eine Webseite von Suchmaschinen. SEO zielt eher auf unbezahlten Verkehr ab als auf direkten oder bezahlten Verkehr."
-        },
         { "heading": "Projects" }
     ]
 }

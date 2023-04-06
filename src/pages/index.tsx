@@ -65,19 +65,19 @@ const Home: NextPage = (props: any) =>
 
                     <div className={styles.homeHeaderLogs}>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>196+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>19+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.1.customers')}</p>
                         </div>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>198+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>19+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.2.projects')}</p>
                         </div>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>9+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>2+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.3.experience')}</p>
                         </div>
                         <div className={styles.homeHeaderLogsBox}>
-                            <span className={styles.homeHeaderLogsBoxNumber}>30+</span>
+                            <span className={styles.homeHeaderLogsBoxNumber}>3+</span>
                             <p className={styles.homeHeaderLogsBoxParagraph}>{t('home:headers.4.honors')}</p>
                         </div>
                     </div>

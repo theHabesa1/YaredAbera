@@ -23,7 +23,7 @@
     "about":
     [
         { "heading": "About me" },
-        { "paragraph": "Hamed is a big enthusiast of unsolved problems and a highly qualified software engineer with more than five years of experience with web, mobile, and software development working for companies from small startups to big ones. He enjoys working with people, is not afraid of changes, is very good at interpersonal skills, and is always open to new challenges. He has experience working with PHP and C++ as well as their frameworks such as Poco and Qt, but he focuses on JavaScript-related technologies like Typescript, NodeJS, DenoJS, NestJS, NextJS, React and React Native." },
+        { "paragraph": "👋 Bonjour ! Je suis Yared, un développeur Web 💻 passionné par la création de sites Web beaux et fonctionnels 🌐. J'aime me tenir au courant des dernières technologies et tendances Web 📈 pour offrir la meilleure expérience utilisateur possible. Quand je ne code pas 💻, vous pouvez me trouver en train de lire 📚, de faire de la randonnée    ou d'explorer de nouveaux restaurants 🍴. Je suis ravi de collaborer avec vous et de donner vie à vos idées de développement Web ! 🚀" },
         { "fat": "Frameworks and Technologies" }
     ],
     "services":
