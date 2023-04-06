@@ -17,10 +17,10 @@ class IQDocument extends Document
 
                     <meta name='language' content='en'/>
                     <meta name='Classification' content='Portfolio'/>
-                    <meta name='subject' content='IntelligentQuantum Full-Stack Developer & Graphic Designer'/>
+                    <meta name='subject' content='Yared Abera portfolio'/>
                     <meta name='description' content="IntelligentQuantum Full-Stack Developer & Graphic Designer. IntelligentQuantum focuses on JavaScript-related technologies like Typescript, NodeJS and React. IntelligentQuantum is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='IntelligentQuantum, IntelligentQuantum Portfolio, Full-Stack Developer, Developer, Iran Shiraz, JavaScript, TypeScript, Graphic Designer'/>
-                    <meta name='author' content='IntelligentQuantum'/>
+                    <meta name='keywords' content='Full-Stack Developer, Developer, Ethiopia, JavaScript, TypeScript, Graphic Designer'/>
+                    <meta name='author' content='Yared Abera'/>
 
                     <meta property='og:type' content='website'/>
                     <meta property='og:url' content='https://intelligentquantum.dev/'/>
@@ -31,7 +31,7 @@ class IQDocument extends Document
                     <meta property='twitter:card'/>
                     <meta property='twitter:url' content='https://intelligentquantum.dev/'/>
                     <meta property='twitter:title' content='IntelligentQuantum'/>
-                    <meta property='twitter:description' content='IntelligentQuantum Full-Stack Developer & Graphic Designer'/>
+                    <meta property='twitter:description' content=' Full-Stack Developer & Graphic Designer'/>
                     <meta property='twitter:image' content='https://intelligentquantum.dev/favicon.png'/>
 
                     <link rel='icon' href='/favicon.png' />
@@ -49,13 +49,13 @@ class IQDocument extends Document
                             __html: JSON.stringify({
                                 '@context': 'https://schema.org/',
                                 '@type': 'Person',
-                                name: 'IntelligentQuantum',
+                                name: 'Yared Abera',
                                 author:
                                         {
                                             '@type': 'Person',
-                                            name: 'IntelligentQuantum'
+                                            name: 'Yared'
                                         },
-                                email: 'mailto:intelligentquantum@protonmail.com',
+                                email: 'yaredabera215@gmail.com',
                                 image: 'https://intelligentquantum.dev/images/IntelligentQuantum.png',
                                 jobTitle: 'Full-Stack Developer',
                                 url: 'https://intelligentquantum.dev'
