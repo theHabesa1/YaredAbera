@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "src": "/images/hobbies/hero-discord.png",
+        "title": "Discord",
+        "description": "I came to Discord around 2017. I really like to be best in everything I am there and in Discord I develop the first, best, open-source, persian economy discord-bot, soo it is very enjoyable for me that I am some of the best persian Discord developer.",
+        "width": 250,
+        "height": 250
+    },
+
+    {
+        "id": 2,
+        "src": "/images/hobbies/hero-instagram.png",
+        "title": "Instagram",
+        "description": "I came to Instagram around 2014 and I always wanted to work in social media, and the same thing happened on Instagram and I started producing content in this community.",
+        "width": 250,
+        "height": 250
+    },
+    {
+        "id": 3,
+        "src": "/images/hobbies/hero-football.png",
+        "title": "Football ",
+        "description": "I love Football i have been playing and wathing football since i was little and it has grown on me since.",
+        "width": 400,
+        "height": 400
+    }
+]

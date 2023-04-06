@@ -1,0 +1,90 @@
+{
+    "menus":
+    [
+        {
+            "id": 0,
+            "name": "All Categories",
+            "category": "All"
+        },
+        {
+            "id": 1,
+            "name": "Web Development",
+            "category": "Web"
+        },
+        {
+            "id": 2,
+            "name": "App Development",
+            "category": "App"
+        },
+        {
+            "id": 3,
+            "name": "App",
+            "category": "App"
+        },
+        {
+            "id": 4,
+            "name": "Graphic Design",
+            "category": "Graphic"
+        }
+    ],
+    "cards":
+    [
+        {
+            "id": 0,
+            "category": "Web",
+            "image": "/images/projects/fetena.png",
+            "title": "Fetena.com",
+            "description": "Introducing our state-of-the-art examination system! 🎉 Designed to streamline the assessment process, our system is the ultimate tool for educators, trainers, and businesses alike. With our easy-to-use interface, creating and grading exams has never been simpler. 📝",
+            "link": "https://github.com/theHabesa1/Exam-React-App"
+        },
+        {
+            "id": 1,
+            "category": "Web",
+            "image": "/images/projects/gallery.png",
+            "title": "Galleryia",
+            "description": "Welcome to our online art gallery, where creativity and beauty collide! 🎨 Our website offers a diverse collection of contemporary and classic artworks from around the world, carefully curated by our team of art experts. From paintings and sculptures to photographs and mixed media, there is something for every art lover here.",
+            "link": "https://gallery.cc/"
+        },
+        {
+            "id": 2,
+            "category": "Web",
+            "image": "/images/projects/huletaw.png",
+            "title": "Interx",
+            "description": "Website to get advert and marketing stratgies connected to your agency",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "category": "App",
+            "image": "/images/projects/dropship.png",
+            "title": "Dagi drop",
+            "description": "Introducing our innovative dropship app - the ultimate solution for hassle-free order fulfillment! 🚀 Our app makes it easy to manage your online store and fulfill customer orders, all without the need for physical inventory.",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "category": "App",
+            "image": "/images/projects/elearn.png",
+            "title": "Learnco",
+            "description": "Looking for a fun and engaging way to expand your knowledge and skills? Look no further than our cutting-edge eLearn app! 📚 Our app offers a wide range of courses and tutorials, covering everything from business and technology to art and lifestyle.",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "category": "Web",
+            "image": "/images/projects/esupp.png",
+            "title": "E-shop",
+            "description": "Welcome to our online electronic supply shop - your one-stop destination for all things tech! 🛍️ Our website offers a wide selection of high-quality electronic components and gadgets, perfect for DIY projects, repairs, and professional use.",
+            "link": "https://github.com/azerothcore/acore-api"
+        },
+        {
+            "id": 6,
+            "category": "Graphic",
+            "image": "/images/projects/wabi.png",
+            "title": "Wabi-Sabi",
+            "description": "Small buisness portfolio designed on illustrator and  Figma",
+            "link": ""
+        }
+
+    ]
+}

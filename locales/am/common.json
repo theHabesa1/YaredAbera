@@ -1,0 +1,16 @@
+{
+    "explore": "ተጨማሪ ያስሱ",
+    "order": "አሁን ትዕዛዙ",
+    "aside":
+    [
+        { "userTitle": "የድር ጣቢያ ገንቢ" },
+        { "userSubtitle": "የምርት ዲዛይነር" },
+        { "residence": "መኖሪያ" },
+        { "city": "ከተማ" },
+        { "age": "ዕድሜ" },
+        { "persian": "Persisch" },
+        { "english": "Englisch" },
+        { "german": "አማ" },
+        { "download": "CV ማውረድ" }
+    ]
+}

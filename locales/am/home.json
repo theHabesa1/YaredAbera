@@ -1,0 +1,53 @@
+{
+    "test": "ምን እየሰራሁ ነው እና እኔ ማን ነኝ?",
+    "typed":
+    [
+        { "desktop": "ዴስክቶፕ እና የሞባይል መተግበሪያዎችን እፈጥራለሁ." },
+        { "web": "የድር በይነገጾችን እገነባለሁ።" },
+        { "restfull": "RESTful APIs እየገነባሁ ነው።" },
+        { "games": "ጨዋታዎችን በ Unreal፣ Frostbite እና Unity ሞተሮች እገነባለሁ።." },
+        { "cyber": "እኔ የሳይበር ደህንነት አድናቂ ነኝ።" },
+        { "languages": "እኔ ጃቫ ስክሪፕት፣ ፒኤችፒ እና ፒቲን ገንቢ ነኝ።" },
+        { "frontend": "እኔ ReactJS እና NextJS አድናቂ ነኝ።" },
+        { "backend": "እኔ NodeJS፣ DenoJS፣ NestJS እና ትንሹ ተርጓሚ ነኝ።" },
+        { "cross": "እኔ ኤሌክትሮን፣ React Native እና Qt ገንቢ ነኝ።" }
+    ],
+    "headers":
+    [
+        { "heading": "ምን እየሰራሁ ነው ወይስ እኔ ማን ነኝ?" },
+        { "customers": "አስደሳች ደንበኞች" },
+        { "projects": "የመራቢያ ፕሮጀክቶች" },
+        { "experience": "ሰፊ ልምድ" },
+        { "honors": "ክብር" }
+    ],
+    "about":
+    [
+        { "heading": "ስለ እኔ" },
+        { "paragraph": "ያሬድ ለወጣት ችግሮች ትልቅ አድናቂ እና ከፍተኛ ብቃት ያለው የሶፍትዌር ገንቢ ሲሆን በድር፣ በሞባይል እና በሶፍትዌር ልማት ከአምስት ዓመት በላይ ልምድ ያለው፣ ከአነስተኛ ጅምሮች እስከ ትላልቅ ኢንተርፕራይዞች ባሉ ኩባንያዎች እየሰራ ነው። ከሰዎች ጋር መስራት ትወዳለች, ስብሰባዎችን አትፈራም, በሰዎች መካከል መግባባት ላይ በጣም ጥሩ ነች እና ሁልጊዜ ለአዲስ ስብሰባዎች ክፍት ነች. እሱ ከፓይቶን ጋር የመስራት ልምድ አለው እና ምላሽ መስጠት እንዲሁም እንደ ፖኮ እና Qt ያሉ ማዕቀፎቻቸው፣ ነገር ግን በጃቫ ስክሪፕት ላይ በተመሰረቱ ቴክኖሎጂዎች ላይ ያተኩራል እንደ Typescript፣ NodeJS፣ DenoJS፣ NestJS፣ NextJS፣ React and React Native።" },
+        { "fat": "ማዕቀፎች እና ቴክኖሎጂዎች" }
+    ],
+    "services":
+    [
+        {
+            "title": "Front-End Entwicklung",
+            "description": "የፊት-ፍጻሜ ድር ንድፍ ተጠቃሚዎች ይህንን ድህረ ገጽ ማየት እና መስተጋብር መፍጠር እንዲችሉ HTML፣ ReactJS እና NextJS በመጠቀም የድረ-ገጹን ግራፊክ የተጠቃሚ በይነገጽ ዲዛይን ነው።."
+        },
+        {
+            "title": "Back-End Entwicklung",
+            "description": "የኋላ-መጨረሻ ውህደት ማለት በ NodeJS፣ DenoJS፣ NestJS፣ NextJS እና Poco ላይ ተመስርተው በድረ-ገጽ ላይ በማታዩት ነገር ላይ በሚያተኩር የአገልጋይ ጎን ሶፍትዌር ላይ መስራት ማለት ነው።"
+        },
+        {
+            "title": "Cross-Platform Entwicklung",
+            "description": "PCcross-platform ልማት የሶፍትዌር ምርቶችን የማልማት ልምድ ነው ወይም እንደ ዊንዶውስ፣ ሊኑክስ፣ ማክኦኤስ፣ አንድሮይድ፣ አይኦኤስ ወይም የሶፍትዌር አካባቢዎችን በኤሌክትሮን፣ React Native እና Qt ላይ በመመስረት።"
+        },
+        {
+            "title": "Internet-Sicherheit",
+            "description": "In der digitalen Welt sind unsere Daten sicher, solange wir uns dessen bewusst sind. Die meisten Hacks, die passieren, sind in erster Linie Social-Engineering-Angriffe, bei denen die menschliche Psychologie ausgenutzt wird, indem Daten verwendet werden, die bewusst von Menschen in sozialen Medien bereitgestellt werden."
+        },
+        {
+            "title": "Suchmaschinenoptimierung",
+            "description": "Suchmaschinenoptimierung ist der Prozess der Verbesserung der Qualität und Quantität des Website-Traffics auf eine Website oder eine Webseite von Suchmaschinen. SEO zielt eher auf unbezahlten Verkehr ab als auf direkten oder bezahlten Verkehr."
+        },
+        { "heading": "Projects" }
+    ]
+}
