@@ -162,7 +162,7 @@ const Aside = () =>
             </div>
 
             <div className={styles.asideFooter}>
-                <a href='https://www.instagram.com/intelligentquantum/'>
+                <a href='https://www.instagram.com/yared.oab12/'>
                     <BsInstagram />
                 </a>
                 <a href='https://dribbble.com/'>
