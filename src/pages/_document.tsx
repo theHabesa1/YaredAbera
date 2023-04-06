@@ -23,10 +23,9 @@ class IQDocument extends Document
                     <meta name='author' content='Yared Abera'/>
 
                     <meta property='og:type' content='website'/>
-                    <meta property='og:url' content='https://intelligentquantum.dev/'/>
-                    <meta property='og:title' content='IntelligentQuantum'/>
-                    <meta property='og:description' content='IntelligentQuantum Full-Stack Developer & Graphic Designer'/>
-                    <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                    <meta property='og:title' content='Yared abera'/>
+                    <meta property='og:description' content='Full-Stack Developer & Graphic Designer'/>
+                
 
                     <meta property='twitter:card'/>
                     <meta property='twitter:url' content='https://intelligentquantum.dev/'/>
