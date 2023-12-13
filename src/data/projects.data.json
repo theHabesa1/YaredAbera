@@ -32,13 +32,21 @@
         {
             "id": 0,
             "category": "Web",
+            "image": "/images/projects/gazeta.png",
+            "title": "Gazetta.com",
+            "description": "A whole in one Digital news paper. with marketing and advertizing stratgies",
+            "link": "https://GAZETTAA.COM"
+        },
+        {
+            "id": 1,
+            "category": "Web",
             "image": "/images/projects/fetena.png",
             "title": "Fetena.com",
             "description": "Introducing our state-of-the-art examination system! 🎉 Designed to streamline the assessment process, our system is the ultimate tool for educators, trainers, and businesses alike. With our easy-to-use interface, creating and grading exams has never been simpler. 📝",
             "link": "https://github.com/theHabesa1/Exam-React-App"
         },
         {
-            "id": 1,
+            "id": 2,
             "category": "Web",
             "image": "/images/projects/gallery.png",
             "title": "Galleryia",
@@ -46,7 +54,7 @@
             "link": "https://gallery.cc/"
         },
         {
-            "id": 2,
+            "id": 3,
             "category": "Web",
             "image": "/images/projects/huletaw.png",
             "title": "Interx",
@@ -54,7 +62,7 @@
             "link": ""
         },
         {
-            "id": 3,
+            "id": 4,
             "category": "App",
             "image": "/images/projects/dropship.png",
             "title": "Dagi drop",
@@ -62,7 +70,7 @@
             "link": ""
         },
         {
-            "id": 4,
+            "id": 5,
             "category": "App",
             "image": "/images/projects/elearn.png",
             "title": "Learnco",
@@ -70,7 +78,7 @@
             "link": ""
         },
         {
-            "id": 5,
+            "id": 6,
             "category": "Web",
             "image": "/images/projects/esupp.png",
             "title": "E-shop",
@@ -78,7 +86,7 @@
             "link": "https://github.com/azerothcore/acore-api"
         },
         {
-            "id": 6,
+            "id": 7,
             "category": "Graphic",
             "image": "/images/projects/wabi.png",
             "title": "Wabi-Sabi",

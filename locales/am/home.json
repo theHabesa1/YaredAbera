@@ -9,7 +9,7 @@
         { "cyber": "እኔ የሳይበር ደህንነት አድናቂ ነኝ።" },
         { "languages": "እኔ ጃቫ ስክሪፕት፣ ፒኤችፒ እና ፒቲን ገንቢ ነኝ።" },
         { "frontend": "እኔ ReactJS እና NextJS አድናቂ ነኝ።" },
-        { "backend": "እኔ NodeJS፣ DenoJS፣ NestJS እና ትንሹ ተርጓሚ ነኝ።" },
+        { "backend": "እኔ NodeJS፣ Java Spring boot፣ NestJS እና ትንሹ ተርጓሚ ነኝ።" },
         { "cross": "እኔ ኤሌክትሮን፣ React Native እና Qt ገንቢ ነኝ።" }
     ],
     "headers":
@@ -34,7 +34,7 @@
         },
         {
             "title": "Back-End Entwicklung",
-            "description": "የኋላ-መጨረሻ ውህደት ማለት በ NodeJS፣ DenoJS፣ NestJS፣ NextJS እና Poco ላይ ተመስርተው በድረ-ገጽ ላይ በማታዩት ነገር ላይ በሚያተኩር የአገልጋይ ጎን ሶፍትዌር ላይ መስራት ማለት ነው።"
+            "description": "የኋላ-መጨረሻ ውህደት ማለት በ NodeJS፣ Java Spring boot፣ NestJS፣ NextJS እና Poco ላይ ተመስርተው በድረ-ገጽ ላይ በማታዩት ነገር ላይ በሚያተኩር የአገልጋይ ጎን ሶፍትዌር ላይ መስራት ማለት ነው።"
         },
         {
             "title": "Cross-Platform Entwicklung",

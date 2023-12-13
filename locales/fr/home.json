@@ -9,7 +9,7 @@
         { "cyber": "I am cyber security enthusiast." },
         { "languages": "I am JavaScripts, TypeScript, and C++ developer." },
         { "frontend": "I am ReactJS and NextJS developer." },
-        { "backend": "I am NodeJS, DenoJS, NestJS and Poco developer." },
+        { "backend": "I am NodeJS, Java Spring boot, NestJS and Poco developer." },
         { "cross": "I am Electron, React Native and Qt developer." }
     ],
     "headers":
@@ -34,7 +34,7 @@
         },
         {
             "title": "Back-End Development",
-            "description": "Back-end development means working on server-side software, which focuses on everything you can not see on a website based on NodeJS, DenoJS, NestJS, NextJS and Poco."
+            "description": "Back-end development means working on server-side software, which focuses on everything you can not see on a website based on NodeJS, Java Spring boot, NestJS, and Poco."
         },
         {
             "title": "Cross-Platform Development",
