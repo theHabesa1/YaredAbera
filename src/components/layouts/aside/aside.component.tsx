@@ -162,7 +162,7 @@ const Aside = () =>
             </div>
 
             <div className={styles.asideFooter}>
-                <a href='https://www.instagram.com/yared.oab12/'>
+                <a href='https://www.instagram.com'>
                     <BsInstagram />
                 </a>
                 <a href='https://dribbble.com/'>
@@ -171,10 +171,10 @@ const Aside = () =>
                 <a href='https://twitter.com/'>
                     <BsTwitter />
                 </a>
-                <a href='https://github.com/theHabesa1'>
+                <a href='https://github.com'>
                     <BsGithub />
                 </a>
-                <a href='https://www.linkedin.com/in/yared-abera-bb7019209/'>
+                <a href='https://www.linkedin.com/in'>
                     <BsLinkedin />
                 </a>
             </div>
